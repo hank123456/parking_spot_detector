@@ -1,13 +1,13 @@
 # parking_spot_detector
 implement a detector for parking spot
 
-### basic functions
+### Basic functions
 automaticly detect parking spot by cam, if there is empty parking spot avaiable, a pic & message will be sent to specific cell phone.
 
-### structures
+### Structures
 + detector: SSD one stage detector with VGG16 backbone (trained on Pascal VOC dataset)
 + 
 
-### Todo
+### Todos
 + [ ] support antroid system
 + [ ] support apple system
